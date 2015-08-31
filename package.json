@@ -2,13 +2,16 @@
     "name":"jumphash",
     "version": "1.0.1",
     "description": "jump consistent hash node bind",
+    "bugs": {
+        "url": "https://github.com/lts123124/jumphash/issues"
+    },
+    "homepage": "https://github.com/lts123124/jumphash",
     "keywords":[
         "jump","consistent","hash"
     ],
     "dependencies":{
         "pangyp":"~2.3.0"
-    }
-    ,
+    },
     "author": "tiansheng li  (https://github.com/lts123124)",
     "license": "MIT",
     "main": "index.js",
